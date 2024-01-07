@@ -1,7 +1,5 @@
 # Diwali-Shopping-Trends
 
-# Diwali Sales Analysis Project
-
 ## Overview
 This project analyzes Diwali sales data to identify patterns and insights into customer behavior.
 
@@ -27,6 +25,4 @@ Married women of 26-35 years age group from UP, Maharashtra, and Karnataka worki
 3) Open the command prompt on Windows or the terminal on macOS
 
 
-## Project Structure
-Describe the structure of your project, key files, and directories.
 
